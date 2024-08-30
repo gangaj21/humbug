@@ -1,0 +1,9 @@
+19
+5 5
+GGGEE
+GGGEE
+GG.**
+EE***
+EE***
+
+0

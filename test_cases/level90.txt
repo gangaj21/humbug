@@ -1,0 +1,9 @@
+11
+5 5
+EEUEE
+EGGEE
+UGG**
+EE*S*
+EE***
+
+0

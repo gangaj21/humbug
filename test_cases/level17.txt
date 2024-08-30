@@ -1,0 +1,12 @@
+6
+5 5
+EE*EE
+EE.EE
+*.*GG
+EE.EE
+EEPEE
+
+3
+0 2 D
+1 2 U
+2 0 L

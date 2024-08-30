@@ -1,0 +1,12 @@
+4
+5 4
+P..E
+EEPE
+EE*E
+EES*
+EE*E
+
+3
+0 2 R
+0 3 L
+4 2 D

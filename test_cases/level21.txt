@@ -1,0 +1,12 @@
+6
+6 4
+PEEE
+*EEE
+*EEE
+*E.*
+P.LE
+EEGE
+
+2
+3 2 R
+3 3 L

@@ -1,0 +1,13 @@
+7
+5 7
+EELEEEE
+EE.EGEE
+PP.*.*.
+EEEE*E.
+EEEEEE*
+
+4
+1 4 D
+2 4 U
+2 4 D
+3 4 U

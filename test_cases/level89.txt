@@ -1,0 +1,11 @@
+8
+7 4
+UEEE
+.EEE
+PEEE
+B..*
+.EEE
+*EEE
+*EEE
+
+0

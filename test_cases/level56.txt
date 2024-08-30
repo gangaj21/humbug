@@ -1,0 +1,15 @@
+6
+7 3
+E*E
+E*E
+ELE
+E**
+G.E
+EPE
+EUE
+
+4
+3 1 R
+3 2 L
+4 0 R
+4 1 L

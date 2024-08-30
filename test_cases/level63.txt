@@ -1,0 +1,12 @@
+8
+7 5
+E*EEE
+EEEEE
+E..E.
+*...P
+EEEEE
+ESU*B
+EE*EE
+
+1
+3 0 L

@@ -1,0 +1,11 @@
+7
+5 4
+.EEU
+EEE*
+EEEL
+UEE.
+*EE*
+
+2
+3 3 D
+4 3 U

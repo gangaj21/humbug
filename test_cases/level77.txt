@@ -1,0 +1,16 @@
+11
+6 6
+PE*EUE
+.EEE*E
+....*E
+...E..
+EEEE.E
+EEEELE
+
+6
+1 1 D
+2 1 U
+3 0 D
+4 0 U
+2 4 R
+2 5 L

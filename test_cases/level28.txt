@@ -1,0 +1,13 @@
+9
+7 5
+*.SEE
+E*EEP
+E.EEL
+*....
+EEGE.
+EEEE.
+EEEE*
+
+2
+3 0 R
+3 1 L

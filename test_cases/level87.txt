@@ -1,0 +1,13 @@
+10
+5 5
+PEEEE
+*EEGE
+.EEU*
+*E*SE
+P.*P*
+
+4
+2 3 R
+2 4 L
+4 3 R
+4 4 L

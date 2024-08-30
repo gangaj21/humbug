@@ -1,0 +1,14 @@
+5
+6 5
+*EEEE
+.EEEE
+.EEPE
+...*E
+EEEG*
+EEEGE
+
+4
+0 0 U
+3 0 L
+4 3 R
+4 4 L

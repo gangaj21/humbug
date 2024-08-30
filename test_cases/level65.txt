@@ -1,0 +1,15 @@
+8
+5 7
+EEUEEEE
+EE.EEEE
+EE.EE**
+PPP.*..
+EE.EE.*
+
+6
+1 5 D
+1 6 D
+2 5 U
+2 6 U
+3 6 R
+4 5 D

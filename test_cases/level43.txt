@@ -1,0 +1,14 @@
+9
+5 5
+*PPEE
+*.PEE
+EE.EE
+EE**P
+EE.EE
+
+5
+0 0 L
+1 0 L
+0 2 U
+0 2 R
+4 2 D

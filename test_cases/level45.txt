@@ -1,0 +1,13 @@
+8
+5 6
+E*EEEE
+E.EPEE
+*..BEE
+EEE..*
+EEEPEE
+
+4
+0 1 U
+2 0 R
+2 1 L
+3 5 R

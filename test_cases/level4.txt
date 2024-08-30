@@ -1,0 +1,11 @@
+3
+6 4
+*EEE
+.EEE
+P*.P
+EEE*
+EEE.
+EEEP
+
+1
+0 0 U

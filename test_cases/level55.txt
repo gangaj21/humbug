@@ -1,0 +1,14 @@
+8
+5 7
+**.UBEE
+EEEE.EE
+EEEEG*E
+EEE...P
+EEEE*EE
+
+5
+0 0 R
+0 1 L
+0 4 U
+2 4 R
+2 5 L

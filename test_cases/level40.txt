@@ -1,0 +1,9 @@
+8
+5 6
+BEE*EE
+.EEEEE
+BEL.L.
+EEE...
+EEE***
+
+0

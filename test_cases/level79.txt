@@ -1,0 +1,12 @@
+10
+6 6
+EE.EEE
+EE.EEE
+EELEBE
+EE.E.U
+*E..*E
+EE*EEE
+
+2
+4 2 D
+5 2 U

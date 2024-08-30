@@ -1,0 +1,9 @@
+6
+5 5
+*EEBE
+EEEEE
+.E...
+EEEEE
+EEE*B
+
+0

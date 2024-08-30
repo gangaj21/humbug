@@ -1,0 +1,9 @@
+5
+5 4
+*EEE
+*EEE
+.S*B
+.EEE
+LEEE
+
+0

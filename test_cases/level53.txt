@@ -1,0 +1,13 @@
+9
+6 5
+EGEEE
+E...*
+E*EEE
+E.SEE
+..L*P
+EE*EE
+
+3
+1 4 R
+3 1 R
+3 2 L

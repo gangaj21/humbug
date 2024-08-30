@@ -1,0 +1,11 @@
+5
+5 5
+EEE*E
+*B..*
+EEESE
+EEE.E
+EEEBE
+
+2
+1 2 R
+1 3 L
